@@ -1,0 +1,206 @@
+﻿<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Venom RolePlay">
+    <meta name="theme-color" content="#d62727">
+    <meta name="author" content="Azuriom">
+        <meta property="og:title" content="Gönderiler">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://venomrp.com.tr/news">
+    <meta property="og:image" content="https://venomrp.com.tr/storage/img/venomlogom.png">
+    <meta property="og:description" content="Venom RolePlay">
+    <meta property="og:site_name" content="Venom RolePlay">
+        <meta name="keywords" content="venom, venomroleplay, venomdarkrp, venom gmod, venomgmod, venom workshop">
+
+    <!-- CSRF Token -->
+    <meta name="csrf-token" content="mrUN51f4G2xSIFNqJQoJrBWwtFbSNyR6CiNERTQw">
+
+    <title>Gönderiler | Venom RolePlay</title>
+
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="storage/img/venomlogom.png">
+
+    <!-- Scripts -->
+    <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js?v1.1.8" defer=""></script>
+    <script src="assets/vendor/axios/axios.min.js?v1.1.8" defer=""></script>
+    <script src="assets/js/script.js?v1.1.8" defer=""></script>
+    <script src="assets/themes/update/js/clipboard.js?v1.1.8" defer=""></script>
+    <script src="npm/vanilla-tilt/dist/vanilla-tilt.min.js" defer=""></script>
+
+    <!-- Page level scripts -->
+    
+    <!-- Fonts -->
+    <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css?v1.1.8" rel="stylesheet">
+
+    <!-- Styles -->
+    <link href="assets/vendor/bootstrap/css/bootstrap.min.css?v1.1.8" rel="stylesheet">
+    <link href="assets/css/base.css?v1.1.8" rel="stylesheet">
+    <link href="assets/themes/update/css/style.css?v1.1.8" rel="stylesheet">
+        <style>
+    :root,
+    [data-bs-theme=light] {
+        --bs-primary: #d62727;
+        --bs-primary-rgb: 214, 39, 39;
+        --bs-primary-text-emphasis: #561010;
+        --bs-primary-bg-subtle: #f7d4d4;
+        --bs-primary-border-subtle: #efa9a9;
+        --bs-link-hover-color: #ab1f1f;
+        --bs-link-hover-color-rgb: 171, 31, 31;
+
+        --bs-primary-color-contrast: #fff;
+        --bs-btn-primary-hover-bg: #dc4747;
+        --bs-btn-primary-active-bg: #dc4747;
+        --bs-btn-primary-focus-shadow-rgb: 220, 71, 71;
+    }
+
+    [data-bs-theme=dark] {
+        --bs-primary-text-emphasis: #801717;
+        --bs-primary-bg-subtle: #2b0808;
+        --bs-primary-border-subtle: #e67d7d;
+
+        --bs-link-color: #e67d7d;
+        --bs-link-hover-color: #de5252;
+        --bs-link-color-rgb: 230, 125, 125;
+        --bs-link-hover-color-rgb: 222, 82, 82;
+    }
+</style>
+</head>
+
+<body data-bs-theme="dark">
+<div id="app">
+        <header class="container-fluid">
+        <nav class="navbar navbar-expand-md py-4">
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div id="navbar" class="collapse navbar-collapse">
+        <!-- Left Side Of Navbar -->
+        <ul class="navbar-nav me-auto navbar-left">
+                                                                        <li class="nav-item ">
+                            <a class="nav-link" href="index.htm">Ana Sayfa</a>
+                        </li>
+                                                                                                            <li class="nav-item ">
+                            <a class="nav-link" href="shop/categories/pointshop.html">Market</a>
+                        </li>
+                                                                                                            <li class="nav-item ">
+                            <a class="nav-link" href="workshop" target="_blank" rel="noopener">Workshop</a>
+                        </li>
+                                                                                                            <li class="nav-item ">
+                            <a class="nav-link" href="https://venomrp.com.tr/support/tickets">Destek</a>
+                        </li>
+                                                        </ul>
+
+        <!-- Right Side Of Navbar -->
+        <ul class="navbar-nav ms-auto navbar-right">
+                            <li class="nav-item">
+                    <a class="nav-link" href="https://venomrp.com.tr/user/login">
+                        Giriş Yap
+                    </a>
+                </li>
+
+                            
+                            <li class="nav-item">
+                                            <a href="steam://connect/91.151.94.196:27015" target="_blank" rel="noreferrer noopener" class="nav-link">
+                            Katıl
+                        </a>
+                                    </li>
+                    </ul>
+    </div>
+</nav>
+    </header>
+
+    <main class="container content">
+        <div id="status-message"></div>
+
+            <h1>Gönderiler</h1>
+
+    <div class="row gy-3">
+            </div>
+    </main>
+</div>
+
+<footer class="mt-auto">
+    <div class="text-bg-primary py-5">
+    <div class="container d-flex align-items-center justify-content-center">
+                    <i class="bi bi-globe fs-2 me-2"></i>
+            <h6 class="mb-0">
+                0 çevrimiçi oyuncu
+            </h6>
+            <h6 class="mb-0">&nbsp;|&nbsp;</h6>
+                            <a href="steam://connect/91.151.94.196:27015" target="_blank" rel="noreferrer noopener" class="color-inherit">
+                    <i class="bi bi-arrow-right"></i> Katıl
+                </a>
+            
+            </div>
+</div>
+
+<div class="bg-body-tertiary text-body-secondary py-5">
+    <div class="container">
+        <div class="row gy-4">
+            <div class="col-md-6">
+                <h3 class="h4 text-body">
+                    About us
+                </h3>
+
+                <p>Sizi eğlendirmek için birbirinden özel rol yapma sunucularımızla buradayız!  Farklı ve çeşitli rollerde keyifli vakit geçirebileceğiniz bir deneyim sunuyoruz. Sürükleyici atmosferimizde yerinizi alın!</p>
+            </div>
+            <div class="col-md-3 links">
+                <h3 class="h4 text-body">
+                    Links
+                </h3>
+
+                <p>Sayfalar</p>
+
+                <ul class="list-unstyled mb-0">
+                                            <li>
+                            <a href="https://venomrp.com.tr/workshop" class="link-body-emphasis"><i class="bi bi-arrow-right"></i> Workshop</a>
+                        </li>
+                                            <li>
+                            <a href="shop/categories/pointshop.html" class="link-body-emphasis"><i class="bi bi-arrow-right"></i> Market</a>
+                        </li>
+                                            <li>
+                            <a href="https://www.venomrp.com.tr/discord" class="link-body-emphasis"><i class="bi bi-arrow-right"></i> Discord</a>
+                        </li>
+                                            <li>
+                            <a href="https://venomrp.com.tr/contactform" class="link-body-emphasis"><i class="bi bi-arrow-right"></i> İletişim</a>
+                        </li>
+                                    </ul>
+            </div>
+            <div class="col-md-3 social">
+                <h3 class="h4 text-body">
+                    Social
+                </h3>
+
+                <div class="list-inline">
+                                            <a href="https://venomrp.com.tr/discord" class="list-inline-item link-body-emphasis mb-2" target="_blank" rel="noreferrer noopener" data-bs-toggle="tooltip" title="Discord">
+                            <i class="bi bi-discord fs-2"></i>
+                        </a>
+                                            <a href="https://venomrp.com.tr/workshop" class="list-inline-item link-body-emphasis mb-2" target="_blank" rel="noreferrer noopener" data-bs-toggle="tooltip" title="Steam">
+                            <i class="bi bi-steam fs-2"></i>
+                        </a>
+                                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="bg-black py-4">
+    <div class="container">
+        <div class="row gy-3 footer-bottom">
+            <div class="col-md-6">
+                <p class="mb-0">Copyright © 2024 Venom DarkRP</p>
+            </div>
+            <div class="col-md-6 text-end">
+                <p class="mb-0"><a href="https://azuriom.com" target="_blank" rel="noopener noreferrer">Azuriom</a> tarafından desteklenmektedir.</p>
+            </div>
+        </div>
+    </div>
+</div>
+</footer>
+
+
+</body>
+</html>

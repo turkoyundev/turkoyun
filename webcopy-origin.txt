@@ -1,0 +1,124 @@
+Uri: https://cdn.jsdelivr.net/npm/vanilla-tilt/dist/vanilla-tilt.min.js
+File Name: C:\Downloaded Web Sites\venomrp.com.tr\npm\vanilla-tilt\dist\vanilla-tilt.min.js
+Content Type: application/javascript
+
+Uri: https://venomrp.com.tr/
+File Name: C:\Downloaded Web Sites\venomrp.com.tr\index.htm
+Content Type: text/html
+
+Uri: https://venomrp.com.tr/assets/css/base.css?v1.1.8
+File Name: C:\Downloaded Web Sites\venomrp.com.tr\assets\css\base.css
+Content Type: text/css
+
+Uri: https://venomrp.com.tr/assets/js/script.js?v1.1.8
+File Name: C:\Downloaded Web Sites\venomrp.com.tr\assets\js\script.js
+Content Type: application/javascript
+
+Uri: https://venomrp.com.tr/assets/themes/update/css/style.css?v1.1.8
+File Name: C:\Downloaded Web Sites\venomrp.com.tr\assets\themes\update\css\style.css
+Content Type: text/css
+
+Uri: https://venomrp.com.tr/assets/themes/update/js/clipboard.js?v1.1.8
+File Name: C:\Downloaded Web Sites\venomrp.com.tr\assets\themes\update\js\clipboard.js
+Content Type: application/javascript
+
+Uri: https://venomrp.com.tr/assets/themes/update/js/fire.js?v1.1.8
+File Name: C:\Downloaded Web Sites\venomrp.com.tr\assets\themes\update\js\fire.js
+Content Type: application/javascript
+
+Uri: https://venomrp.com.tr/assets/themes/update/js/particles.min.js?v1.1.8
+File Name: C:\Downloaded Web Sites\venomrp.com.tr\assets\themes\update\js\particles.min.js
+Content Type: application/javascript
+
+Uri: https://venomrp.com.tr/assets/vendor/axios/axios.min.js?v1.1.8
+File Name: C:\Downloaded Web Sites\venomrp.com.tr\assets\vendor\axios\axios.min.js
+Content Type: application/javascript
+
+Uri: https://venomrp.com.tr/assets/vendor/bootstrap-icons/bootstrap-icons.css?v1.1.8
+File Name: C:\Downloaded Web Sites\venomrp.com.tr\assets\vendor\bootstrap-icons\bootstrap-icons.css
+Content Type: text/css
+
+Uri: https://venomrp.com.tr/assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff2?24e3eb84d0bcaf83d77f904c78ac1f47
+File Name: C:\Downloaded Web Sites\venomrp.com.tr\assets\vendor\bootstrap-icons\fonts\bootstrap-icons.woff2
+Content Type: font/woff2
+
+Uri: https://venomrp.com.tr/assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff?24e3eb84d0bcaf83d77f904c78ac1f47
+File Name: C:\Downloaded Web Sites\venomrp.com.tr\assets\vendor\bootstrap-icons\fonts\bootstrap-icons.woff
+Content Type: font/woff
+
+Uri: https://venomrp.com.tr/assets/vendor/bootstrap/css/bootstrap.min.css?v1.1.8
+File Name: C:\Downloaded Web Sites\venomrp.com.tr\assets\vendor\bootstrap\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://venomrp.com.tr/assets/vendor/bootstrap/js/bootstrap.bundle.min.js?v1.1.8
+File Name: C:\Downloaded Web Sites\venomrp.com.tr\assets\vendor\bootstrap\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://venomrp.com.tr/news
+File Name: C:\Downloaded Web Sites\venomrp.com.tr\news.html
+Content Type: text/html
+
+Uri: https://venomrp.com.tr/shop/categories/donator
+File Name: C:\Downloaded Web Sites\venomrp.com.tr\shop\categories\donator.html
+Content Type: text/html
+
+Uri: https://venomrp.com.tr/shop/categories/ozelmeslek
+File Name: C:\Downloaded Web Sites\venomrp.com.tr\shop\categories\ozelmeslek.html
+Content Type: text/html
+
+Uri: https://venomrp.com.tr/shop/categories/perma-silah
+File Name: C:\Downloaded Web Sites\venomrp.com.tr\shop\categories\perma-silah.html
+Content Type: text/html
+
+Uri: https://venomrp.com.tr/shop/categories/pointshop
+File Name: C:\Downloaded Web Sites\venomrp.com.tr\shop\categories\pointshop.html
+Content Type: text/html
+
+Uri: https://venomrp.com.tr/storage/img/eyvahlarolsun.png
+File Name: C:\Downloaded Web Sites\venomrp.com.tr\storage\img\eyvahlarolsun.png
+Content Type: image/png
+
+Uri: https://venomrp.com.tr/storage/img/venomlogom.png
+File Name: C:\Downloaded Web Sites\venomrp.com.tr\storage\img\venomlogom.png
+Content Type: image/png
+
+Uri: https://venomrp.com.tr/storage/packages/7tfuyAXuREfWmaujdOPpCNHRDbTkZbvvYoGf4VR9.png
+File Name: C:\Downloaded Web Sites\venomrp.com.tr\storage\packages\7tfuyAXuREfWmaujdOPpCNHRDbTkZbvvYoGf4VR9.png
+Content Type: image/png
+
+Uri: https://venomrp.com.tr/storage/packages/dsuo94x5o5nNhI8AMkCseqqqvhqLQ8Rdo6t2Trw1.png
+File Name: C:\Downloaded Web Sites\venomrp.com.tr\storage\packages\dsuo94x5o5nNhI8AMkCseqqqvhqLQ8Rdo6t2Trw1.png
+Content Type: image/png
+
+Uri: https://venomrp.com.tr/storage/packages/eCFBp1N27hKkcpkk0qW3n8pIkvaXSYPRQyGEUAWk.png
+File Name: C:\Downloaded Web Sites\venomrp.com.tr\storage\packages\eCFBp1N27hKkcpkk0qW3n8pIkvaXSYPRQyGEUAWk.png
+Content Type: image/png
+
+Uri: https://venomrp.com.tr/storage/packages/eRt5OkyV9Np21be0wkKsgn6ROZg7FsMF7GTVle6P.png
+File Name: C:\Downloaded Web Sites\venomrp.com.tr\storage\packages\eRt5OkyV9Np21be0wkKsgn6ROZg7FsMF7GTVle6P.png
+Content Type: image/png
+
+Uri: https://venomrp.com.tr/storage/packages/mWyozessibmfEEBk3pCUOP4FEjLbkNa2oGxcxxUS.png
+File Name: C:\Downloaded Web Sites\venomrp.com.tr\storage\packages\mWyozessibmfEEBk3pCUOP4FEjLbkNa2oGxcxxUS.png
+Content Type: image/png
+
+Uri: https://venomrp.com.tr/storage/packages/OhGcmYs8POHKsvr7nGc4WFMYMfo3sr7zGGR9R1WS.png
+File Name: C:\Downloaded Web Sites\venomrp.com.tr\storage\packages\OhGcmYs8POHKsvr7nGc4WFMYMfo3sr7zGGR9R1WS.png
+Content Type: image/png
+
+Uri: https://venomrp.com.tr/storage/packages/RWL5ojm95dpjIYj5GTHPpnoXgGnBUGr7aiPuXUN1.png
+File Name: C:\Downloaded Web Sites\venomrp.com.tr\storage\packages\RWL5ojm95dpjIYj5GTHPpnoXgGnBUGr7aiPuXUN1.png
+Content Type: image/png
+
+Uri: https://venomrp.com.tr/storage/packages/UkiW8rb9Q24FNl5a9Y115KkjuFXIbSCYwYBVY7oa.png
+File Name: C:\Downloaded Web Sites\venomrp.com.tr\storage\packages\UkiW8rb9Q24FNl5a9Y115KkjuFXIbSCYwYBVY7oa.png
+Content Type: image/png
+
+Uri: https://venomrp.com.tr/storage/packages/v6VbWsTqz6lVuhBNRehWQoG1tnFlE3PKGAgB5hkD.png
+File Name: C:\Downloaded Web Sites\venomrp.com.tr\storage\packages\v6VbWsTqz6lVuhBNRehWQoG1tnFlE3PKGAgB5hkD.png
+Content Type: image/png
+
+Uri: https://venomrp.com.tr/storage/packages/Zl83SWiQcCpzgdQ6i4NzV7ugv2IO2zeEeaHfCzyM.png
+File Name: C:\Downloaded Web Sites\venomrp.com.tr\storage\packages\Zl83SWiQcCpzgdQ6i4NzV7ugv2IO2zeEeaHfCzyM.png
+Content Type: image/png
+
